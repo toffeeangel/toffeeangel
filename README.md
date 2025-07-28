@@ -1,8 +1,22 @@
 ## Hello! 👋🏻
 
+- 🩷 My name is Laleh, but I also go by Ella, an anagram of my name!
 - 🔭 I’m currently working on a text-based adventure game called Mystica: RELOAD - you can find it in its repository on my profile!
 - 🌱 I’m currently learning JavaScript
-- 💬 Ask me about anything! Myself, my games, even my stories!
-- 📫 How to reach me: you can contact me by email at: @supershake.party671@passinbox.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love red pandas! 🐼❤️
+- 👩🏻‍💻 My coding skillset:
+- ★ Learning JavaScript
+- ★ HTML and CSS
+- ★ Basic Python
+- ★ A little bit of Solidity
+- ★ Experience with development blockchains: Ganache, Truffle, etc.
+- ★ Experience using IDEs like Remix Ethereum IDE and Visual Studio Code.
+- 🖼️ My hobbies:
+- ⊛ Art (traditional and digital)
+- ⊛ Writing my stories
+- ⊛ Reading webcomics 🦇
+- 🐼❤️ Things I like:
+- ♡ Cats!
+- ♡ Bunnies (baby and wild ones especially)
+- ♡ Red pandas!
+- ♡ Making games! (Pssst, I have another idea in pre-production, it's a thriller/horror visual novel 👀)
+- 💬 Mystica: RELOAD is still in early stages of production, but I'm happy to answer any spoiler-free questions!
