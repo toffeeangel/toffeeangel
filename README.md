@@ -1,6 +1,6 @@
 ## Hello! 👋🏻
 
-- 🩷 My name is Laleh, but I also go by Ella, an anagram of my name!
+- 🩷 I'm toffeeangel!
 - 🔭 I’m currently working on a text-based adventure game called Mystica: RELOAD - you can find it in its repository on my profile!
 - 🌱 I’m currently learning JavaScript
 - 👩🏻‍💻 My coding skillset:
@@ -19,4 +19,4 @@
 - ♡ Bunnies (baby and wild ones especially)
 - ♡ Red pandas!
 - ♡ Making games! (Pssst, I have another idea in pre-production, it's a thriller/horror visual novel 👀)
-- 💬 Mystica: RELOAD is still in early stages of production, but I'm happy to answer any spoiler-free questions!
+- 🫧 Magical Girl Patrol leader
