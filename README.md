@@ -1,7 +1,7 @@
 ## Hello! 👋🏻
 
 - 🧋 I'm toffeeangel!
-- 🔭 I’m currently working on a text-based choose-your-own-adventure demonic noir game called Mystica: RELOAD - you can find it in its repository on my profile!
+- 🔭 I’m currently working on a text-based choose-your-own-adventure demonic noir game called Cursed To Be Chained - you can find it in its repository on my profile!
 - 🌱 I’m currently learning JavaScript
 - 👩🏻‍💻 My coding skillset:
 
