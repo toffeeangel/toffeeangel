@@ -2,7 +2,7 @@
 
 - 🧋 I'm toffeeangel!
 - 🔭 I’m currently working on a text-based choose-your-own-adventure demonic noir game called Cursed To Be Chained - you can find it in its repository on my profile!
-- 🌱 I’m currently Web Development
+- 🌱 I’m currently learning Web Development
 - 👩🏻‍💻 My coding skillset:
 
   - ★ Learning JavaScript
