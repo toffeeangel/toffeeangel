@@ -16,7 +16,7 @@
 - ✏️ My hobbies:
   - ⊛ Art (traditional and digital)
   - ⊛ Writing my stories
-  - ⊛ Reading webcomics 🦇
+  - ⊛ Reading webcomics 🧜🏻
 - ✨ Things I like:
   - ♡ Cats!
   - ♡ Bunnies (baby and wild ones especially)
